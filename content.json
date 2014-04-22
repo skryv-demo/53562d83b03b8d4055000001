@@ -1,1 +1,39 @@
-{}
+{
+    "Front Page": {
+        "Contract information": {
+            "Date of recruitment": "2014-04-08T22:00:00.000Z"
+        },
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {}
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {}
+        },
+        "Languages": {
+            "English": {},
+            "French": {},
+            "German": {},
+            "Other(s)": {
+                "0": []
+            }
+        },
+        "Professional experience": {}
+    },
+    "Training Page": {
+        "Training": {
+            "0": []
+        }
+    },
+    "Software Expertise Page": {
+        "Software expertise": {
+            "0": []
+        }
+    },
+    "Professional Experience Page": {
+        "Project experience": {
+            "0": []
+        }
+    }
+}
